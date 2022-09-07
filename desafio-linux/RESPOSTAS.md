@@ -6,8 +6,6 @@
 
 ## Tarefa 1: Kernel e Boot Loader
 
----
-
 **O que foi realizado:** 
 
 - Boot no modo recovery
@@ -19,8 +17,6 @@ De posse da senha de **root** da máquina, foi editado o arquivo `/etc/sudoers` 
 ![Untitled](imagens/Untitled.png)
 
 ## Tarefa 2: Usuários
-
----
 
 **O que foi feito:**
 
@@ -37,8 +33,6 @@ Alteração no arquivo `/etc/sudoers` para o usuário `getup` executar comandos 
 ![Untitled](imagens/Untitled%201.png)
 
 ## Tarefa 3: SSH
-
----
 
 ### Tarefa 3.1: Autenticação confiável
 
@@ -82,8 +76,6 @@ Após a execução do comando acima, o Login via SSH funcionou com sucesso:
 
 ## Tarefa 4: Systemd
 
----
-
 **O que foi feito:**
 
 - Adição de `;` no arquivo `/etc/nginx/nginx` para corrigir a sintaxe
@@ -97,8 +89,6 @@ Para dar certo da forma pedida, isto é, sem alterar o comando, basta alterar a 
 ![Untitled](imagens/Untitled%207.png)
 
 ## Tarefa 5: SSL
-
----
 
 **O que foi feito:**
 
@@ -116,8 +106,6 @@ Segue abaixo resultado do comando solicitado, e confirmação que o nginx está 
 Obs: foi necessário apontar através da flag `--cacert` para o comando `curl` utilizar o CA criado.
 
 ## Tarefa 6: Rede
-
----
 
 ### Tarefa 6.1: Firewall
 
@@ -138,8 +126,6 @@ Foi criado o arquivo `/etc/logrotate.d/nginx` com o conteúdo abaixo:
 ![Untitled](imagens/Untitled%2011.png)
 
 ## Tarefa 7: Filesystem
-
----
 
 ### Tarefa 7.1: Expandir partição LVM
 
