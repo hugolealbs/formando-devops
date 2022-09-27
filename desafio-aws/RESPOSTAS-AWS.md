@@ -1,8 +1,6 @@
 # Desafio 2: AWS
 
 > Proposta de resolução para o Desafio 2 do programa Formando DevOps - GetUp
-Autor: Hugo Leal
-Data: 27SET22
 > 
 
 ## Tarefa 1: Setup de ambiente
