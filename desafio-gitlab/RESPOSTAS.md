@@ -11,11 +11,11 @@
 ## Prints:
 
 Texto "DEV" em funcionamento no branch main:
-![Untitled](imagens/dev.png)
+![Untitled](imagens/dev.jpg)
 
 Texto "FEATURE" após merge dos branches:
-![Untitled](imagens/feature.png)
+![Untitled](imagens/feature.jpg)
 Obs: o merge foi realizado no próprio repositório web.
 
 Resultado do comando git log na branch master:
-![Untitled](imagens/log.png)
+![Untitled](imagens/log.jpg)
