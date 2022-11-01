@@ -69,7 +69,7 @@ spec:
       initContainers:
       - image: alpine
         name: alpine-create-index
-				command:
+	command:
           - "/bin/sh"
           - "-c"
           - "echo HelloGetup > /app/index.html"
