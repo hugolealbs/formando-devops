@@ -1,6 +1,6 @@
 # Desafio 5: DOCKER
 
-> Proposta de resolução para o Desafio 5 do programa Formando DevOps - GetUp
+> Proposta de resolução para o Desafio 5 (Docker) do programa Formando DevOps - GetUp
 > 
 
 ## Respostas
